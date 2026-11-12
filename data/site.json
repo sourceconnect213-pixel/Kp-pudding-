@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "contact": {
+    "phoneDisplay": "076 90 90 90 9",
+    "whatsapp": "94769090909",
+    "tiktok": "hashankp",
+    "areas": ["Gampaha", "Colombo", "Nearby Areas"]
+  },
+  "event": {
+    "enabled": true,
+    "line1": "අපි එනවා",
+    "line2": "ගම්පහ නගරයට",
+    "citySi": "ගම්පහ",
+    "cityEn": "Gampaha",
+    "month": "NOVEMBER",
+    "days": "10 - 15",
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-15",
+    "openHour": 13,
+    "closeHour": 20,
+    "poster": "assets/img/gampaha-poster.webp"
+  },
+  "products": [
+    {
+      "id": "cups",
+      "name": "Pudding Cup",
+      "si": "පුඩිං කප්",
+      "price": 150,
+      "unit": "cup",
+      "img": "assets/img/pudding-cup.webp",
+      "desc": "තනි කෙනෙකුට රස විඳින්න ගැළපෙන, KP cup එකක සකස් කළ creamy caramel pudding. ගෙදරට, office එකට, ගමනට – ඕනෑම වෙලාවක රසවත් පුඩිං එකක්!",
+      "button": "View Products",
+      "available": true,
+      "visible": true,
+      "featured": true
+    },
+    {
+      "id": "packs",
+      "name": "Pudding Packs",
+      "si": "පුඩිං පැක්",
+      "price": null,
+      "unit": "pack",
+      "img": "assets/img/pudding-packs.webp",
+      "desc": "පවුලේ හැමෝටම, යාළුවන් එක්ක share කරන්න පුඩිං cups කිහිපයක් එකම පැකට්ටුවක. තෑග්ගක් විදිහටත් හොඳම තේරීමක්!",
+      "button": "View Packs",
+      "available": true,
+      "visible": true,
+      "featured": false
+    },
+    {
+      "id": "party",
+      "name": "Party Orders",
+      "si": "විශේෂ අවස්ථා ඇණවුම්",
+      "price": null,
+      "unit": "order",
+      "img": "assets/img/party-pudding.webp",
+      "desc": "උපන්දින, සාද, office events සහ විශේෂ අවස්ථා සඳහා විශාල ඇණවුම්. ඔබේ දිනය සහ ප්‍රමාණය කලින් දැනුම් දෙන්න – අපි සූදානම් කරලා දෙන්නම්.",
+      "button": "Order Now",
+      "available": true,
+      "visible": true,
+      "featured": false
+    }
+  ]
+}
