@@ -1,0 +1,11 @@
+{
+  "name": "KP Pudding",
+  "short_name": "KP Pudding",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFF7E1",
+  "theme_color": "#9E1016",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" }
+  ]
+}
